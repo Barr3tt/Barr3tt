@@ -5,5 +5,5 @@
 - 💞️ I’m looking to collaborate on any blockchain or video game projects.
 # How to reach me
 - Website: https://sociallydistant.site
-- Discord: https://discord.gg/Ngrj9z3H2N
+- Discord: https://sociallydistant.site/discord
 - Email: williamsonbarrett@gmail.com
